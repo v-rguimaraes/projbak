@@ -1,0 +1,20 @@
+[
+  {
+    "referencia": "202010",
+    "uf": "SP",
+    "municipio": "BARUERI",
+    "valor": "100,00"
+  },
+  {
+    "referencia": "202010",
+    "uf": "RJ",
+    "municipio": "RIO DE JANEIRO",
+    "valor": "150,00"
+  },
+  {
+    "referencia": "202009",
+    "uf": "SP",
+    "municipio": "BARUERI",
+    "valor": "150,00"
+  }
+]
